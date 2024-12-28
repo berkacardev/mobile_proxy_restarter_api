@@ -1,0 +1,6 @@
+@MobileProxyApi_HostAddress = http://localhost:5288
+
+GET {{MobileProxyApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

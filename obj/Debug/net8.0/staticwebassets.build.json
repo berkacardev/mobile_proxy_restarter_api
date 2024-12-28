@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Jy4dlXGgDDhTQbuQPoodBR06/6Dl+t4/SRijUqC7Mbk=",
+  "Source": "MobileProxyApi",
+  "BasePath": "_content/MobileProxyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
